@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_banking" value="name:ID;datatype:int,name:Allowance;datatype:string,name:BankName;datatype:string,name:AccountNo;datatype:string,name:PTAllowNo;datatype:string" />
+	<infoitem key="UD_contact" value="name:ID;datatype:int,name:HandphoneNO;datatype:string,name:HomePhoneNo;datatype:string,name:EmailAddress;datatype:string,name:MailingAddress;datatype:string" />
+	<infoitem key="UD_education" value="name:ID;datatype:int,name:University;datatype:string,name:Qualification;datatype:string" />
+	<infoitem key="UD_trainee" value="name:ID;datatype:int,name:Name;datatype:string,name:IcNo;datatype:string,name:HomeAddress;datatype:string,name:City;datatype:string,name:State;datatype:string,name:DateOfBirth;datatype:date,name:Gender;datatype:string,name:Race;datatype:string,name:Religion;datatype:string" />
+	<infoitem key="UD_training" value="name:ID;datatype:int,name:DateOfApplication;datatype:date,name:DateOfReceived;datatype:date,name:StartDate;datatype:date,name:EndDate;datatype:date,name:Duration;datatype:string,name:Division;datatype:string,name:DivisionAccept;datatype:string,name:StudentAccept;datatype:string,name:TrainingStatus;datatype:string" />
+</info>
